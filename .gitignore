@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.venv_win/
+env/
+venv/
+ENV/
+
+# Build and distribution artifacts
+dist/
+build/
+*.egg-info/
+*.spec.bak
+
+# PyInstaller / Nuitka outputs
+*.exe
+
+# User configuration & SQLite databases
+.deskbuddy/
+*.db
+*.sqlite3
+
+# Temporary scratch test files
+test_*.png
+test_*.jpg
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo

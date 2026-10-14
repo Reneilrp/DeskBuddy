@@ -1,0 +1,3 @@
+PyQt6>=6.6.0
+google-antigravity
+APScheduler>=3.10.0
