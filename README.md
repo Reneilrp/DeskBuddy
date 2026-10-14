@@ -36,10 +36,18 @@ Most desktop pets are merely passive decorations. DeskBuddy actively solves dail
 > [!TIP]
 > **No programming or Python experience required!** DeskBuddy includes an automated self-bootstrapping installer.
 
-### For End-Users:
-1. Click the green **Code** button at the top of this repository and select **Download ZIP** (or grab the latest release from the [Releases](../../releases) tab).
-2. Extract the downloaded `.zip` folder to any location on your PC.
-3. Double-click **`install.bat`**!
+### 💾 Option 1: Standalone .EXE (No Python Needed!)
+Download the pre-compiled, portable release directly from GitHub:
+👉 **[Download DeskBuddy-Windows-x64.zip (v1.0.0)](https://github.com/Reneilrp/DeskBuddy/releases/latest/download/DeskBuddy-Windows-x64.zip)**
+
+1. Extract the downloaded `DeskBuddy-Windows-x64.zip`.
+2. Double-click **`DeskBuddy.exe`** to start playing right away!
+
+---
+
+### ⚙️ Option 2: Run via Source / Installer Batch Script
+1. Download the repository source as ZIP or clone it.
+2. Double-click **`install.bat`**!
 
 ```
 📁 DeskBuddy/
